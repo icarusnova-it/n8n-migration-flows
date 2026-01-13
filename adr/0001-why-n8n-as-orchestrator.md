@@ -97,6 +97,6 @@ External Systems (APIs, Databases, etc.)
 
 ---
 
-**Date**: 2024  
+**Date**: 2026  
 **Deciders**: Icarus Nova Architecture Team  
 **Status**: Accepted

@@ -93,6 +93,6 @@ All flows must include:
 
 ---
 
-**Date**: 2024  
+**Date**: 2026  
 **Deciders**: Icarus Nova Architecture Team  
 **Status**: Accepted
